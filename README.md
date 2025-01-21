@@ -27,3 +27,5 @@ Este proyecto está diseñado para:
    ```bash
    npm install
    npm start
+
+Autor: Kristian David Castrillón Paz \n Para preguntas o colaboraciones, contáctame en kristian.castrillon@correo.com.
